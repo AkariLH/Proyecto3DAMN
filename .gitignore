@@ -1,0 +1,48 @@
+# Archivos generados por Android Studio
+*.iml
+.gradle/
+.idea/
+build/
+captures/
+.externalNativeBuild/
+
+# Directorios de compilación
+app/build/
+*/build/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de control de versiones específicos
+*.log
+*.keystore
+*.jks
+
+# Configuración local de Android Studio
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+
+# Archivos temporales
+*.temp
+*.tmp
+*.swp
+*.swo
+
+# Archivos de cache
+*.class
+*.dex
+*.apk
+*.ap_
+*.o
+*.so
+*.obj
+*.out
+*.hprof
+
+# Archivos generados por el sistema operativo
+*.orig
